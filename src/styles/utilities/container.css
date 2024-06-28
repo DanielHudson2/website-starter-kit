@@ -1,0 +1,6 @@
+.container {
+	max-width: var(--layout--page-width);
+	margin: 0 auto;
+	padding-right: var(--layout--spacing--medium);
+	padding-left: var(--layout--spacing--medium);
+}
